@@ -120,12 +120,8 @@ You can see below that from refactoring the code there is a significant decrease
 
 **Advantages and Disadvantages of refactoring code:**
 
-The less code you have, the easier it is to understand and modify the code. This also makes it easier to spot bugs. You won’t have to go back and try to understand the past code to fix bugs. 
+One advantage would be - the less code you have, the easier it is to understand and modify the code. This also makes it easier to spot bugs. You won’t have to go back and try to understand the past code to fix bugs. One Disadvantage would be - if you have a significantly large file with tons of code, it may be harder to refactor that existing code because of it's complexity and cause errors. 
 
 **Pros and Cons of applying refactoring to original VBA script:**
 
-Refactoring makes code more easily understandable and easy to extend in the future as code becomes more complex.  
-
-Refactoring code eliminates the amount of code you will have to work with, and better understand the system 
-
-Though eliminating duplication makes modification easeier, one con is that it forces design patterns into your code which…
+Refactoring makes code more easily understandable and easy to extend in the future as code becomes more complex. Since the Module 2 code is fairly straightforward and not overly complex it was easy to apply refactor the original VBA script. The only con is the repition of inputs and loops that were added that can sometimes lead to erroneous scripts. 
