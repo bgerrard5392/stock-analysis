@@ -12,7 +12,7 @@ The total daily volume and yearly return for each stock:
 
 -	**Yearly Return** = percentage difference in price from the beginning of the year to the end of the year 
 
-# Results
+# Code Results
 
 Below are the steps I took to refactor the Module 2 solution code:
 
@@ -101,7 +101,7 @@ Below are the steps I took to refactor the Module 2 solution code:
 
 End Sub
 
-# Execution Time Results:
+# Execution Time Results
 You can see below that from refactoring the code there is a significant decrease in run time compared to the original script from Module 2. The 2017 refactored script ran ~6 hundredths of a second faster than the original script while the 2018 refactored script ran ~7 hundredths of a second faster than the original script. 
 
 
