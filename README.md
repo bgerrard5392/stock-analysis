@@ -17,7 +17,7 @@ The total daily volume and yearly return for each stock:
 Below are the steps I took to refactor the Module 2 solution code:
 
 
-'1a) Create a ticker Index
+    '1a) Create a ticker Index
     tickerIndex = 0
 
     '1b) Create three output arrays
