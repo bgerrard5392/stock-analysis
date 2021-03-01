@@ -101,6 +101,10 @@ Below are the steps I took to refactor the Module 2 solution code:
 
 End Sub
 
+# Execution Time Results:
+You can see below that from refactoring the code there is a significant decrease in run time compared to the original script from Module 2. The 2017 refactored script ran ~6 hundredths of a second faster than the original script while the 2018 refactored script ran ~7 hundredths of a second faster than the original script. 
+
+
 ## Refactored Script Execution Times:
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/75700317/109439390-1a022600-79fc-11eb-8223-42a4fbfe4dcb.png) ![VBA_Challenge_2018](https://user-images.githubusercontent.com/75700317/109439400-238b8e00-79fc-11eb-9c1c-4955038fedfe.png)
 
